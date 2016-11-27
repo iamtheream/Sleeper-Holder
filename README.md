@@ -70,7 +70,7 @@ This library is free software; you can redistribute it and/or modify it under th
 
 <!-- ## Versioning :memo: -->
 
-## Authors :thumbsup:
+## Authors :pencil:
 
 * **Matt Reamer** - [Github](https://github.com/iamtheream) / [Portfolio](https://iamtheream.io)
 

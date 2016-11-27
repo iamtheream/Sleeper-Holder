@@ -1,4 +1,4 @@
-# Sleep Hold :sleeping:
+# Sleeper Hold :sleeping:
 
 An Arduino application that uses the Leonardo and a few force sensors hooked up to a manikin head that puts your computer to sleep. Ok so it's not really a sleeper hold, it's a kokina clutch but the name sleeper hold fit oh so well 👌
 

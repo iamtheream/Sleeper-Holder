@@ -6,7 +6,7 @@ An Arduino application that uses the Leonardo and a few force sensors hooked up 
 
 First, you'll need to aquire a few hardware components.
 
-* [1x Arduino Leonardo](https://www.sparkfun.com/products/11286) - The micro-controller that will house your code. *We need to use this specific model* because it's one of the only Arduinos that can minik keyboard behavior out of the box
+* [1x Arduino Leonardo](https://www.sparkfun.com/products/11286) - The micro-controller that will house your code. **We need to use this specific model** because it's one of the only Arduinos that can minik keyboard behavior out of the box
 * [2x Force Pressure Sensor](https://www.sparkfun.com/products/11207) - To simulate the force of the kokina cluth (sleeper hold)
 * [1x Push Button (optional)](https://www.sparkfun.com/products/10439) - Another form of validation and to simulate the actual wrestling hold
 * [10x Jumper Wires](https://www.sparkfun.com/products/9194) - Used to conect hardware components
@@ -16,7 +16,7 @@ First, you'll need to aquire a few hardware components.
 
 The action performed by standard function keys varies depending on the app you're using, or depending on the keyboard shortcuts listed in the Keyboard & Mouse pane of System Preferences. By default, pressing one of these keys performs the special feature indicated by the icon printed on the key. For example, pressing the keys with speaker icons adjusts the volume. If you want to use one of these keys as a standard function key, hold the Fn key (usually in the lower-left corner of the keyboard) while pressing the function key. For example, pressing Fn-F10 (speaker icon) performs the function assigned to the F10 key instead of toggling mute on or off.
 
-* If you're using a mac *
+**If you're using a mac**
 
 If you prefer the top row of keys to always behave as standard function keys without holding the Fn key:
 
@@ -26,7 +26,7 @@ If you prefer the top row of keys to always behave as standard function keys wit
 * Select "Use all F1, F2, etc. keys as standard function keys"
 
 
-* If you're using a PC (most modern) *
+**If you're using a PC (most modern)**
 
 * Turn on the computer.
 * Press the F10 key to enter the BIOS setup window.

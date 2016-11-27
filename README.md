@@ -72,7 +72,7 @@ This library is free software; you can redistribute it and/or modify it under th
 
 ## Authors :pencil:
 
-* **Matt Reamer** - [Github](https://github.com/iamtheream) / [Portfolio](https://iamtheream.io)
+* **Matt Reamer** - [Github](https://github.com/iamtheream) / [Portfolio](http://iamtheream.io)
 
 <!-- ## License :page_with_curl:
 

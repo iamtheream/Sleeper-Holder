@@ -16,7 +16,7 @@ First, you'll need to acquire a few hardware components.
 
 The action performed by standard function keys varies depending on the app you're using, or depending on the keyboard shortcuts listed in the Keyboard & Mouse pane of System Preferences. By default, pressing one of these keys performs the special feature indicated by the icon printed on the key. For example, pressing the keys with speaker icons adjusts the volume. If you want to use one of these keys as a standard function key, hold the Fn key (usually in the lower-left corner of the keyboard) while pressing the function key. For example, pressing Fn-F10 (speaker icon) performs the function assigned to the F10 key instead of toggling mute on or off.
 
-** If you're using a mac **
+**If you're using a mac**
 
 If you prefer the top row of keys to always behave as standard function keys without holding the Fn key:
 
@@ -25,7 +25,7 @@ If you prefer the top row of keys to always behave as standard function keys wit
 * Click the Keyboard tab if it's not already highlighted.
 * Select "Use all F1, F2, etc. keys as standard function keys"
 
-** If you're using a PC (most modern) **
+**If you're using a PC (most modern)**
 
 * Turn on the computer.
 * Press the F10 key to enter the BIOS setup window.

@@ -51,7 +51,7 @@ It's pretty simple. You download the Arduino code file in the ``` sleeperHold ``
 
 ## Hardware (Assemby) :electric_plug:
 
-I've included a [Fritzing](http://fritzing.org/home/) file to the hardware folder in this repository. If you don't feel like installing Fritzing on yur machine, just refrence this image for building out your circuit.
+I've included a [Fritzing](http://fritzing.org/home/) file to the ```hardware``` folder in this repository. If you don't feel like installing Fritzing on yur machine, just refrence this image for building out your circuit.
 
 <!-- ![magic .gif from Giphy](http://i.giphy.com/11mZ7LKLGhkwaA.gif )-->
 

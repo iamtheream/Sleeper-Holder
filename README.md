@@ -2,7 +2,7 @@
 
 An Arduino application that uses the Leonardo and a few force sensors hooked up to a manikin head that puts your computer to sleep. Ok so it's not really a sleeper hold, it's a kokina clutch but the name sleeper hold fit oh so well :ok_hand:
 
-:one: ## Getting Started :point_up:
+## Getting Started :point_up:
 
 First, you'll need to aquire a few hardware components.
 
@@ -12,7 +12,7 @@ First, you'll need to aquire a few hardware components.
 * [10x Jumper Wires](https://www.sparkfun.com/products/9194) - Used to conect hardware components
 * [1x Manikin Head](https://www.amazon.com/Wrisky-Styrofoam-Mannequin-Manikin-Glasses/dp/B01HUVPXIK/ref=sr_1_sc_2?s=arts-crafts&ie=UTF8&qid=1480269767&sr=1-2-spell&keywords=male+manakin+head) - To mimik the human head
 
-:two: ### Before You Asemble :raised_hand:
+### Before You Asemble :raised_hand:
 
 The action performed by standard function keys varies depending on the app you're using, or depending on the keyboard shortcuts listed in the Keyboard & Mouse pane of System Preferences. By default, pressing one of these keys performs the special feature indicated by the icon printed on the key. For example, pressing the keys with speaker icons adjusts the volume. If you want to use one of these keys as a standard function key, hold the Fn key (usually in the lower-left corner of the keyboard) while pressing the function key. For example, pressing Fn-F10 (speaker icon) performs the function assigned to the F10 key instead of toggling mute on or off.
 
@@ -36,7 +36,7 @@ If you prefer the top row of keys to always behave as standard function keys wit
 With this option enabled, the keys on the top row act as standard function keys (F1–F12). To use a feature indicated by the icon printed on a key, hold Fn while pressing the key.
 
 
-:three: ### Installing Software :computer:
+### Installing Software :computer:
 
 Make sure that you've got the [Arduino IDE](https://www.arduino.cc/en/Main/Software) installed on your machine because without it, this project is useless.
 
@@ -49,13 +49,13 @@ Next you'll need to keyboard.h code installed in the head (very top) of your .in
 It's pretty simple. You download the Arduino code file in the ``` sleeperHold ``` directory and it should work from there.
 
 
-:four: ## Hardware (Assemby) :electric_plug:
+## Hardware (Assemby) :electric_plug:
 
 I've included a [Fritzing](http://fritzing.org/home/) file to the hardware folder in this repository. If you don't feel like installing Fritzing on yur machine, just refrence this image for building out your circuit.
 
 <!-- ![magic .gif from Giphy](http://i.giphy.com/11mZ7LKLGhkwaA.gif )-->
 
-:five: ## Now, Put Your Computer to Sleep :tada:
+## Now, Put Your Computer to Sleep :tada:
 
 ![magic .gif from Giphy](http://i.giphy.com/11mZ7LKLGhkwaA.gif)
 
